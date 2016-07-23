@@ -1,0 +1,40 @@
+
+body {
+    font-family: Proxima Nova;
+    background-color: #F5FFFA;
+}
+
+h2 {
+    text-transform: uppercase;
+}
+
+h1 {
+    font-family: Proxima Nova;
+    font-size: 16px;
+}
+
+input[type="text"], textarea {
+    background-color: #FFFFE0;
+    border-radius: 5px;
+    font-size: 12px;
+}
+
+#instructions, #thanks {
+    box-shadow: 5px 5px 5px #888888;
+    border: 2px solid gray;
+    width: 500px;
+    padding: 20px;
+    background-color: #B0C4DE;
+}
+
+#last, #last_name {
+    font-weight: bold;
+}
+
+input[type="submit"] {
+    font-family: Proxima Nova;
+    font-size: 16px;
+    background-color: #FFFFE0;
+    border-radius: 5px;
+    font-weight: bold;
+}
